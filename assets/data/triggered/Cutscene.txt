@@ -1,0 +1,22 @@
+:sound:forest.mp3
+:img:t1.png
+:gf:This trip is a nice change of pace from our usual dates.
+:img:t2.png
+:bf:Yeah, my family and I used to hang out here a ton.
+:img:t3.png
+:gf:It's really nice and it smells good here, \nthough I'm surprised you can drive a car.
+:img:t4.png
+:bf:Heh, I'm full of Suprises.
+:img:t5.png
+:flaky:Where did you last see it, Flippy?
+:img:t6.png
+:flippy:Well, it was somewhere around these trees and bushes, \nbut it's probably best if we split up so we can find it faster. 
+:flippy:I'll give you a signal if I happen to find it.
+:img:t7.png
+:flaky:Alrighty, I'll go tell the others then!
+:img:t8.png
+:bf:Ah shit, this mic won't work.
+:img:t9.png
+:gf:Maybe it's worn from all the adventures you've had. \nPerhaps it's time to get a new one?
+:img:t10.png
+:bf:Nah, don't worry, I can fix it. Probably.

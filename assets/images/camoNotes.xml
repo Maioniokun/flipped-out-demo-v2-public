@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="camo.png"><SubTexture name="camo right0000" x="0" y="0" width="159" height="161" frameX="0" frameY="0" frameWidth="159" frameHeight="161" />
+<SubTexture name="camo left0000" x="159" y="0" width="159" height="161" frameX="0" frameY="0" frameWidth="159" frameHeight="161" />
+<SubTexture name="camo up0000" x="318" y="0" width="162" height="158" frameX="0" frameY="0" frameWidth="162" frameHeight="158" />
+<SubTexture name="camo down0000" x="480" y="0" width="162" height="158" frameX="0" frameY="0" frameWidth="162" frameHeight="158" />
+<SubTexture name="camo hold end0000" x="0" y="161" width="55" height="69" frameX="0" frameY="0" frameWidth="55" frameHeight="69" />
+<SubTexture name="camo hold piece0000" x="55" y="161" width="56" height="49" frameX="0" frameY="0" frameWidth="56" frameHeight="49" />
+</TextureAtlas>
